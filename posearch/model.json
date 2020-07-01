@@ -1,0 +1,78 @@
+{
+    "purchaseorders": {
+        "poNumber": {
+            "type": "string"
+        },
+        "type": {
+            "type": "string"
+        },
+        "typeCode": {
+            "type": "string"
+        },
+        "createdOn": {
+            "type": "string"
+        },
+        "effectiveFrom": {
+            "type": "string"
+        },
+        "status": {
+            "type": "string"
+        },
+        "internationalCommercialTerms1": {
+            "type": "string"
+        },
+        "internationalCommercialTerms2": {
+            "type": "string"
+        },
+        "titleTransferModelCode": {
+            "type": "string"
+        },
+        "titleTransferModelCodeDescription": {
+            "type": "string"
+        },
+        "buyGroup": {
+            "type": "string"
+        },
+        "buyGroupCode": {
+            "type": "string"
+        },
+        "items": {
+            "productCode": {
+                "type": "string"
+            },
+            "quantity": {
+                "type": "number"
+            },
+            "poLineItemNumber": {
+                "type": "string"
+            },
+            "plantCode": {
+                "type": "string"
+            },
+            "plantName": {
+                "type": "string"
+            },
+            "productName": {
+                "type": "string"
+            },
+            "unitOfMeasure": {
+                "type": "string"
+            },
+            "poLineItemStatus": {
+                "type": "string"
+            },
+            "internationalCommercialTerms1": {
+                "type": "string"
+            },
+            "internationalCommercialTerms2": {
+                "type": "string"
+            },
+            "goodsAtConsolidatorDate": {
+                "type": "string"
+            },
+            "customerShipTo": {
+                "type": "string"
+            }
+        }
+    }
+}
